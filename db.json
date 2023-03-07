@@ -48,94 +48,39 @@
   ],
   "animes": [
     {
-      "book": "A Rainha Verde",
-      "author": "Victoria Aveyard",
-      "year": 2015,
+      "name": "Naruto",
+      "userId": 4,
+      "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
+      "eps": 720,
+      "genre": [
+        "Aventura",
+        "Artes Marciais",
+        "Comédia de Fantasia"
+      ],
+      "author": "Masashi Kishimoto",
+      "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
       "id": 1
-    },
-    {
-      "book": "Mundo de Sofia",
-      "author": "Victoria Aveyard",
-      "year": 2015,
-      "id": 3
-    },
-    {
-      "book": "O dia do curinga",
-      "author": "Victoria Aveyard",
-      "year": 2015,
-      "id": 4
-    },
-    {
-      "book": "O dia depois de amanhã",
-      "author": "Victoria Aveyard",
-      "year": 2015,
-      "id": 5
-    },
-    {
-      "book": "O dia depois de amanhã",
-      "author": "Victoria Aveyard",
-      "year": 2015,
-      "id": 6
     }
   ],
   "favorites": [
     {
       "id": 1,
       "animesIds": [
-        1,
         2
       ],
-      "userId": 2
-    },
-    {
-      "id": 2,
-      "animesIds": [
-        1,
-        2
-      ],
-      "userId": 3
+      "userId": 4
     }
   ],
   "customlist": [
     {
-      "id": 2,
-      "userId": 2,
-      "name": "exemplo1",
-      "animesIds": [
-        3,
-        2
-      ],
-      "quantidadeAnimes": 2
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "name": "exemplo2",
-      "animesIds": [
-        3,
-        2
-      ],
-      "quantidadeAnimes": 2
-    },
-    {
-      "userId": 3,
-      "name": "exemplo77",
-      "idsAnime": [
-        2,
-        3
-      ],
-      "quantidadeAnimes": 2,
-      "id": 4
-    },
-    {
       "userId": 4,
-      "name": "exemplo22",
-      "idsAnime": [
+      "name": "Asssistir sexta-feira",
+      "animesIds": [
         2,
         3
       ],
       "quantidadeAnimes": 2,
-      "id": 5
+      "id": 1
     }
   ]
 }
