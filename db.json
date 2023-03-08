@@ -49,7 +49,6 @@
   "animes": [
     {
       "name": "Naruto",
-      "userId": 4,
       "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
       "eps": 720,
       "genre": [
@@ -60,6 +59,58 @@
       "author": "Masashi Kishimoto",
       "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
       "id": 1
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
+      "eps": 720,
+      "genre": [
+        "Aventura",
+        "Artes Marciais",
+        "Comédia de Fantasia"
+      ],
+      "author": "Masashi Kishimoto",
+      "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
+      "id": 2
+    },
+    {
+      "name": "Code Geass - Lelouch of the Rebellion ",
+      "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
+      "eps": 720,
+      "genre": [
+        "Aventura",
+        "Artes Marciais",
+        "Comédia de Fantasia"
+      ],
+      "author": "Masashi Kishimoto",
+      "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
+      "id": 3
+    },
+    {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu (1ª Temporada)",
+      "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
+      "eps": 720,
+      "genre": [
+        "Aventura",
+        "Artes Marciais",
+        "Comédia de Fantasia"
+      ],
+      "author": "Masashi Kishimoto",
+      "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
+      "id": 4
+    },
+    {
+      "name": "No Game No Life",
+      "urlImage": "https://th.bing.com/th/id/R.5bbe18035906cf4da2047123faf0c637?rik=NM8hPhOaQGp%2bJw&pid=ImgRaw&r=0",
+      "eps": 720,
+      "genre": [
+        "Aventura",
+        "Artes Marciais",
+        "Comédia de Fantasia"
+      ],
+      "author": "Masashi Kishimoto",
+      "synopsis": "Naruto Uzumaki, um jovem órfão habitante da Aldeia da Folha que sonha em se tornar o Hokage, o maior guerreiro e governante da vila.",
+      "id": 5
     }
   ],
   "favorites": [
@@ -74,13 +125,13 @@
   "customlist": [
     {
       "userId": 4,
-      "name": "Asssistir sexta-feira",
+      "name": "Dia de feriado",
       "animesIds": [
         2,
-        3
+        7
       ],
-      "quantidadeAnimes": 2,
-      "id": 1
+      "amountAnimes": 2,
+      "id": 2
     }
   ]
 }
