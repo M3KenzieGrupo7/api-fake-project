@@ -17,6 +17,24 @@
       "img": "https://th.bing.com/th/id/R.678955ca4337fc9a61ceb342ecb26760?rik=lTWGRXmJNI1EhQ&pid=ImgRaw&r=0",
       "background": "https://th.bing.com/th/id/R.678955ca4337fc9a61ceb342ecb26760?rik=lTWGRXmJNI1EhQ&pid=ImgRaw&r=0",
       "id": 2
+    },
+    {
+      "email": "fran@mail.com",
+      "password": "$2a$10$NHeq447rCZOj1ZuBtpC0LuwWppYngCJ0PKxY5TZD1X3HKW2inguL.",
+      "name": "fran",
+      "nickname": "fran",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhottGHgEJTwhBaiyXQon0fa2cn0F6Wk6sA&usqp=CAU",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhottGHgEJTwhBaiyXQon0fa2cn0F6Wk6sA&usqp=CAU",
+      "id": 3
+    },
+    {
+      "email": "bruno@mail.com",
+      "password": "$2a$10$NHeq447rCZOj1ZuBtpC0LuwWppYngCJ0PKxY5TZD1X3HKW2inguL.",
+      "name": "bruno",
+      "nickname": "bruno",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhottGHgEJTwhBaiyXQon0fa2cn0F6Wk6sA&usqp=CAU",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhottGHgEJTwhBaiyXQon0fa2cn0F6Wk6sA&usqp=CAU",
+      "id": 4
     }
   ],
   "animes": [
